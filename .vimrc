@@ -12,7 +12,7 @@ set fileencoding=utf-8
 set ruler
 
 set noerrorbells
-set visuabell t_vb= "no flash on error
+set visualbell t_vb= "no flash on error
 
 "delete spaces on line ends
 autocmd BufWritePre * :%s/\s\+$//e
