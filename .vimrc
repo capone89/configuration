@@ -28,6 +28,9 @@ set tabstop=4
 
 "4 spaces for indentation in insertion mode
 set softtabstop=4
+set smartindent
+set shiftwidth=4
+set expandtab
 
 " always show 10 lines before and after cursor
 set scrolloff=10
